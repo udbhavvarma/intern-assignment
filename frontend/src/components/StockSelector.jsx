@@ -1,4 +1,3 @@
-// src/components/StockSelector.jsx
 import React from 'react';
 import { useSelector, useDispatch } from 'react-redux';
 import { FormControl, InputLabel, Select, MenuItem } from '@mui/material';

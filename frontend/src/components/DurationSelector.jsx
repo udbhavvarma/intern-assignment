@@ -1,4 +1,3 @@
-// src/components/DurationSelector.jsx
 import React from 'react';
 import { useSelector, useDispatch } from 'react-redux';
 import { ToggleButtonGroup, ToggleButton, Box } from '@mui/material';
